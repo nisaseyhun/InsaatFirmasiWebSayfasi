@@ -1,0 +1,51 @@
+footer {
+    background-color: rgb(225 225 225);
+    color: black;
+    padding: 20px 0;
+}
+
+.footer-icerik {
+    display: flex;
+    justify-content: space-around;
+}
+
+.footer-bolum {
+    width: 30%;
+}
+
+.footer-bolum h3 {
+    color: black;
+    border-bottom: 2px solid black;
+    padding-bottom: 10px;
+}
+
+.footer-bolum p {
+    color: black;
+}
+
+.footer-bolum ul {
+    list-style: none;
+    padding: 0;
+}
+
+.footer-bolum ul li {
+    margin-bottom: 10px;
+}
+
+.footer-bolum ul li a {
+    text-decoration: none;
+    color: black;
+}
+
+.footer-bolum ul li a:hover {
+    color: rgb(255 193 7 / 73%) !important;
+}
+
+.alt-footer {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.alt-footer p {
+    color: black;
+}
